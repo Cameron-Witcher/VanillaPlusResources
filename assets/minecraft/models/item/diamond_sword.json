@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data": 200}, "model": "custom/noah/diamond_sword"},
+		{"predicate": {"custom_model_data": 300}, "model": "custom/quick/diamond_sword"}
+	]
+}

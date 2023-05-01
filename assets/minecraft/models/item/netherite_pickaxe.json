@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_pickaxe"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/netherite_pickaxe"},
+		{"predicate": {"custom_model_data":101}, "model": "custom/tef/tef_silk_pick"}
+	]
+}
