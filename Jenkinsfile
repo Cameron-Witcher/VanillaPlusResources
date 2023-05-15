@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Zip') {
       steps {
-        sh 'zip * server_resources.zip'
+        sh 'zip  -r * server_resources.zip'
       }
     }
 
