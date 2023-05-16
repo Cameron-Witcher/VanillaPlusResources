@@ -1,5 +1,5 @@
 {
-	"parent": "item/generated",
+	"parent": "minecraft:block/carved_pumpkin",
 	"textures": {
 		"layer0": "item/carved_pumpkin"
 	},
