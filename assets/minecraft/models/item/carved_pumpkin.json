@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "item/carved_pumkin"
+		"layer0": "item/carved_pumpkin"
 	},
 	
 	"overrides": [
