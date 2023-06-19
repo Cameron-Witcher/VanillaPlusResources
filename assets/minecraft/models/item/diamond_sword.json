@@ -4,6 +4,9 @@
         "sword": "item/diamond_sword",
 		"particle": "item/diamond_sword"
     },
+"overrides": [
+	{"predicate": {"custom_model_data":100}, "model": "custom/tef/netherite_sword"}
+],
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],
