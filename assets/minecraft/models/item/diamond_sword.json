@@ -4,9 +4,17 @@
         "sword": "item/diamond_sword",
 		"particle": "item/diamond_sword"
     },
+<<<<<<< Updated upstream
 "overrides": [
 	{"predicate": {"custom_model_data":100}, "model": "custom/tef/netherite_sword"}
 ],
+=======
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/diamond_sword"}
+	],
+	
+>>>>>>> Stashed changes
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],

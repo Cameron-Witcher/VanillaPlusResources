@@ -4,6 +4,10 @@
 		"particle": "item/bow",
 		"bow": "item/bow"
 	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/bow"}
+	],
 	"elements": [
 		{
 			"name": "bow_0",

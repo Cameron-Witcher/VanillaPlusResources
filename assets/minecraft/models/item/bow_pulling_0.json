@@ -5,6 +5,12 @@
 		"1": "item/bow_pulling_0",
 		"particle": "item/bow_pulling_0"
 	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/bow_pulling_0"}
+	],
+	
+	
 	"elements": [
 		{
 			"name": "bow_pulling_0_0",
