@@ -4,6 +4,10 @@
         "pickaxe": "item/diamond_pickaxe",
 		"particle": "item/diamond_pickaxe"
     },
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/netherite_pickaxe"},
+		{"predicate": {"custom_model_data":101}, "model": "custom/tef/tef_silk_pick"}
+	],
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],

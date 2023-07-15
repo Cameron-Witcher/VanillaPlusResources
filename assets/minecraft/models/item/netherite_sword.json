@@ -4,6 +4,11 @@
         "sword": "item/netherite_sword",
 		"particle": "item/netherite_sword"
     },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/netherite_sword"}
+	],
+	
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],
