@@ -6,6 +6,7 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data":100}, "model": "custom/tef/fungi_pants"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/pirate_pants_netherite"}
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/pirate_pants_netherite"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/pirate_pants_netherite2"}
 	]
 }
