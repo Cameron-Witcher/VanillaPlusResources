@@ -6,7 +6,10 @@
 	<target name="zip">
 		<exec executable="sh">
 			<arg line="-c 'zip VanillaPlusResourcesv${project.version}.zip -r *'" />
-		</exec>		
+		</exec>
+		<exec executable="sh">
+			<arg line="-c 'cp VanillaPlusResourcesv${project.version}.zip ${project.downloadlocation}'" />
+		</exec>
 	</target>
 </project>
 
