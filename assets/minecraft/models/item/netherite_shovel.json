@@ -4,6 +4,12 @@
         "shovel": "item/netherite_shovel",
 		"particle": "item/netherite_shovel"
     },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tef_shovel"},
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/netherite_shovel"}
+	],
+	
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],

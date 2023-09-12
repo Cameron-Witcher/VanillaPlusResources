@@ -6,6 +6,7 @@
 	
 	"overrides": [
 	    {"predicate": {"custom_model_data":100}, "model": "custom/tef/shroom_cap"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/pirate_hat_netherite"}
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/pirate_hat_netherite"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/pirate_hat_netherite2"}
 	]
 }

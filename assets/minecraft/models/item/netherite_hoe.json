@@ -4,6 +4,11 @@
         "hoe": "item/netherite_hoe",
 		"particle": "item/netherite_hoe"
     },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/netherite_hoe"}
+	],
+	
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],

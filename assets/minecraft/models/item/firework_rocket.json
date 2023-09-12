@@ -5,6 +5,29 @@
 		"6": "item/firework_rocket",
 		"particle": "item/firework_rocket"
 	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/rocket1"},
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/rocket1"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/rocket2"},
+		{"predicate": {"custom_model_data":302}, "model": "custom/quick/rocket3"},
+		{"predicate": {"custom_model_data":303}, "model": "custom/quick/rocket4"},
+		{"predicate": {"custom_model_data":304}, "model": "custom/quick/rocket5"},
+		{"predicate": {"custom_model_data":305}, "model": "custom/quick/rocket6"},
+		{"predicate": {"custom_model_data":306}, "model": "custom/quick/rocket7"},
+		{"predicate": {"custom_model_data":307}, "model": "custom/quick/rocket8"},
+		{"predicate": {"custom_model_data":308}, "model": "custom/quick/rocket9"},
+		{"predicate": {"custom_model_data":309}, "model": "custom/quick/rocket10"},
+		{"predicate": {"custom_model_data":310}, "model": "custom/quick/rocket11"},
+		{"predicate": {"custom_model_data":311}, "model": "custom/quick/rocket12"},
+		{"predicate": {"custom_model_data":312}, "model": "custom/quick/rocket13"},
+		{"predicate": {"custom_model_data":313}, "model": "custom/quick/rocket14"},
+		{"predicate": {"custom_model_data":314}, "model": "custom/quick/rocket15"},
+		{"predicate": {"custom_model_data":315}, "model": "custom/quick/rocket16"},
+		{"predicate": {"custom_model_data":316}, "model": "custom/quick/rocket17"},
+		{"predicate": {"custom_model_data":317}, "model": "custom/quick/rocket18"}
+	],
+	
 	"elements": [
 		{
 			"name": "firework_rocket_0",

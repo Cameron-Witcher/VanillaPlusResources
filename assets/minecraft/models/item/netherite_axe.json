@@ -4,6 +4,12 @@
         "axe": "item/netherite_axe",
 		"particle": "item/netherite_axe"
     },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tef_axe"},
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/netherite_axe"}
+	],
+	
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],

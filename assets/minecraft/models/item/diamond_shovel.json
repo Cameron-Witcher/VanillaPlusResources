@@ -4,6 +4,11 @@
         "shovel": "item/diamond_shovel",
 		"particle": "item/diamond_shovel"
     },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tef_shovel"}
+	],
+	
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],

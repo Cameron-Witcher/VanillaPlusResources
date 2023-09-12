@@ -4,6 +4,12 @@
         "pickaxe": "item/netherite_pickaxe",
 		"particle": "item/netherite_pickaxe"
     },
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/netherite_pickaxe"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/netherite_pickaxe2"}
+	],
+	
     "display": {
         "gui": {
             "rotation": 	[ 0, 0, 0 ],

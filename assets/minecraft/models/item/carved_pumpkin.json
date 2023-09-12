@@ -5,6 +5,13 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/plushboi"}
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/plushboi"},
+		{"predicate": {"custom_model_data":101}, "model": "custom/tef/plushboi_1"},
+		{"predicate": {"custom_model_data":102}, "model": "custom/tef/plushboiseason2"},
+		{"predicate": {"custom_model_data":103}, "model": "custom/tef/wolfbuddy"},
+		{"predicate": {"custom_model_data":104}, "model": "custom/tef/Summerbuddy"},
+		{"predicate": {"custom_model_data":105}, "model": "custom/tef/WarriorBuddy"},
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/eye_patch"},
+		{"predicate": {"custom_model_data":500}, "model": "custom/wolf/bowtie"}
 	]
 }
