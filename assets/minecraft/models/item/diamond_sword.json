@@ -10,8 +10,12 @@
 		{"predicate": {"custom_model_data":100}, "model": "custom/tef/netherite_sword"},
 		{"predicate": {"custom_model_data":200}, "model": "custom/noah/diamond_sword"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/diamond_sword"},
+
 		{"predicate": {"custom_model_data":400}, "model": "custom/jec/diamond_sword"},
-		{"predicate": {"custom_model_data":501}, "model": "custom/wolf/staff"}
+		{"predicate": {"custom_model_data":501}, "model": "custom/wolf/staff"},
+
+		{"predicate": {"custom_model_data":400}, "model": "custom/jec/diamond_sword"}
+
 	],
 	
 
