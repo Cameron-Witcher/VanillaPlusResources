@@ -7,8 +7,8 @@
 	"overrides": [
 	    {"predicate": {"custom_model_data":100}, "model": "custom/tef/elytra"},
 		{"predicate": {"custom_model_data":100, "broken": 1}, "model": "custom/tef/broken_elytra"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/elytra"},
-		{"predicate": {"custom_model_data":300, "broken": 1}, "model": "custom/quick/broken_elytra"},
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/elytra"},
+		{"predicate": {"custom_model_data":300, "broken": 1}, "model": "custom/quick/armor/broken_elytra"},
 		{"predicate": {"custom_model_data":400}, "model": "custom/jec/elytra"},
 		{"predicate": {"custom_model_data":400, "broken": 1}, "model": "custom/jec/broken_elytra"}
 	]

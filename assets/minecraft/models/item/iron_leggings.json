@@ -5,6 +5,6 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/pirate_pants_iron"}
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_pants_iron"}
 	]
 }

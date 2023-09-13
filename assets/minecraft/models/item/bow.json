@@ -81,9 +81,9 @@
 		{"predicate": {"custom_model_data":100, "pulling": 1}, "model": "custom/tef/bow2"},
         {"predicate": {"custom_model_data":100, "pulling": 1, "pull": 0.65}, "model": "custom/tef/bow3"},
         {"predicate": {"custom_model_data":100, "pulling": 1, "pull": 0.9}, "model": "custom/tef/bow4"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/bow"},
-		{"predicate": {"custom_model_data":300, "pulling": 1}, "model": "custom/quick/bow_pulling_0"},
-        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.65}, "model": "custom/quick/bow_pulling_1"},
-        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.9}, "model": "custom/quick/bow_pulling_2"}
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/tools/bow"},
+		{"predicate": {"custom_model_data":300, "pulling": 1}, "model": "custom/quick/tools/bow_pulling_0"},
+        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.65}, "model": "custom/quick/tools/bow_pulling_1"},
+        {"predicate": {"custom_model_data":300, "pulling": 1, "pull": 0.9}, "model": "custom/quick/tools/bow_pulling_2"}
     ]
 }

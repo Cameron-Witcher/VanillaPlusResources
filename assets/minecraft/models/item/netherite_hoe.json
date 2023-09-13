@@ -6,7 +6,7 @@
     },
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/netherite_hoe"}
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/tools/netherite_hoe"}
 	],
 	
     "display": {

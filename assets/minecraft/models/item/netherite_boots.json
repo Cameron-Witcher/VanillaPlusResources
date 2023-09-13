@@ -6,7 +6,7 @@
 	
 	"overrides": [
 		{"predicate": {"custom_model_data":100}, "model": "custom/tef/mycelium_boots"},
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/pirate_boots_netherite"},
-		{"predicate": {"custom_model_data":301}, "model": "custom/quick/pirate_boots_netherite2"}
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/pirate_boots_netherite"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/pirate_boots_netherite2"}
 	]
 }

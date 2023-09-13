@@ -6,8 +6,8 @@
     },
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":300}, "model": "custom/quick/netherite_pickaxe"},
-		{"predicate": {"custom_model_data":301}, "model": "custom/quick/netherite_pickaxe2"}
+		{"predicate": {"custom_model_data":300}, "model": "custom/quick/tools/netherite_pickaxe"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/tools/netherite_pickaxe2"}
 	],
 	
     "display": {
