@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/quick/rocket32"
+		"layer0": "item/custom/quick/rockets/rocket32"
 	}
 }
