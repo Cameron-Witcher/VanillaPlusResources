@@ -25,7 +25,27 @@
 		{"predicate": {"custom_model_data":314}, "model": "custom/quick/rockets/rocket15"},
 		{"predicate": {"custom_model_data":315}, "model": "custom/quick/rockets/rocket16"},
 		{"predicate": {"custom_model_data":316}, "model": "custom/quick/rockets/rocket17"},
-		{"predicate": {"custom_model_data":317}, "model": "custom/quick/rockets/rocket18"}
+		{"predicate": {"custom_model_data":317}, "model": "custom/quick/rockets/rocket18"},
+		{"predicate": {"custom_model_data":318}, "model": "custom/quick/rockets/rocket19"},
+		{"predicate": {"custom_model_data":319}, "model": "custom/quick/rockets/rocket20"},
+		{"predicate": {"custom_model_data":320}, "model": "custom/quick/rockets/rocket21"},
+		{"predicate": {"custom_model_data":321}, "model": "custom/quick/rockets/rocket22"},
+		{"predicate": {"custom_model_data":322}, "model": "custom/quick/rockets/rocket23"},
+		{"predicate": {"custom_model_data":323}, "model": "custom/quick/rockets/rocket24"},
+		{"predicate": {"custom_model_data":324}, "model": "custom/quick/rockets/rocket25"},
+		{"predicate": {"custom_model_data":325}, "model": "custom/quick/rockets/rocket26"},
+		{"predicate": {"custom_model_data":326}, "model": "custom/quick/rockets/rocket27"},
+		{"predicate": {"custom_model_data":327}, "model": "custom/quick/rockets/rocket28"},
+		{"predicate": {"custom_model_data":328}, "model": "custom/quick/rockets/rocket29"},
+		{"predicate": {"custom_model_data":329}, "model": "custom/quick/rockets/rocket30"},
+		{"predicate": {"custom_model_data":330}, "model": "custom/quick/rockets/rocket31"},
+		{"predicate": {"custom_model_data":331}, "model": "custom/quick/rockets/rocket32"},
+		{"predicate": {"custom_model_data":332}, "model": "custom/quick/rockets/rocket33"},
+		{"predicate": {"custom_model_data":333}, "model": "custom/quick/rockets/rocket34"},
+		{"predicate": {"custom_model_data":334}, "model": "custom/quick/rockets/rocket35"},
+		{"predicate": {"custom_model_data":335}, "model": "custom/quick/rockets/rocket36"},
+		{"predicate": {"custom_model_data":336}, "model": "custom/quick/rockets/rocket37"},
+		{"predicate": {"custom_model_data":337}, "model": "custom/quick/rockets/rocket38"}
 	],
 	
 	"elements": [
