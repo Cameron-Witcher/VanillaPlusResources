@@ -6,6 +6,8 @@
     },
 	
 	"overrides": [
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/pick1"},
+		{"predicate": {"custom_model_data":101}, "model": "custom/tef/tools/pick2"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/tools/netherite_pickaxe"},
 		{"predicate": {"custom_model_data":301}, "model": "custom/quick/tools/netherite_pickaxe2"}
 	],

@@ -7,7 +7,7 @@
 
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/netherite_sword"},
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/sword1"},
 		{"predicate": {"custom_model_data":200}, "model": "custom/noah/diamond_sword"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/tools/diamond_sword"},
 

@@ -5,8 +5,8 @@
 		"particle": "item/diamond_pickaxe"
     },
 	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/netherite_pickaxe"},
-		{"predicate": {"custom_model_data":101}, "model": "custom/tef/tef_silk_pick"}
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/pick1"},
+		{"predicate": {"custom_model_data":101}, "model": "custom/tef/tools/pick2"}
 	],
     "display": {
         "gui": {

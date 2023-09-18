@@ -7,7 +7,7 @@
 	},
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/rocket1"},
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/rocket1"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/rockets/rocket1"},
 		{"predicate": {"custom_model_data":301}, "model": "custom/quick/rockets/rocket2"},
 		{"predicate": {"custom_model_data":302}, "model": "custom/quick/rockets/rocket3"},

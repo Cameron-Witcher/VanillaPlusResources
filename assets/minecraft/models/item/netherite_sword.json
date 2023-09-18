@@ -6,7 +6,7 @@
     },
 	
 	"overrides": [
-		{"predicate": {"custom_model_data":100}, "model": "custom/tef/netherite_sword"},
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/tools/sword1"},
 		{"predicate": {"custom_model_data":200}, "model": "custom/noah/netherite_sword"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/tools/netherite_sword"},
 		{"predicate": {"custom_model_data":400}, "model": "custom/jec/netherite_sword"},
