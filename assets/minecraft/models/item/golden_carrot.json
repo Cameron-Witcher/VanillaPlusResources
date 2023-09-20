@@ -6,6 +6,9 @@
         "7": "item/golden_carrot",
         "particle": "item/golden_carrot"
 	},
+	
+	
+	
 	"elements": [
 		{
 			"name": "golden_carrot_0",
@@ -1295,5 +1298,9 @@
             "scale": [ 0.68, 0.68, 0.68 ]
         }
     
-    }
+    },
+	"overrides": [
+	    {"predicate": {"custom_model_data":1}, "model": "custom/cookies/macaron"},
+		{"predicate": {"custom_model_data":2}, "model": "custom/cookies/macaron"}
+	]
 }

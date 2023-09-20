@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/tef/plushboi",
-		"2": "item/custom/tef/shield",
-		"3": "item/custom/tef/handle",
-		"particle": "item/custom/tef/shield"
+		"1": "item/custom/tef/plushies/plushboi",
+		"2": "item/custom/tef/plushies/shield",
+		"3": "item/custom/tef/plushies/handle",
+		"particle": "item/custom/tef/plushies/shield"
 	},
 	"elements": [
 		{
