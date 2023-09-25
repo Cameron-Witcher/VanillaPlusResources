@@ -12,6 +12,7 @@
 		{"predicate": {"custom_model_data":104}, "model": "custom/tef/plushies/plushie_summer"},
 		{"predicate": {"custom_model_data":105}, "model": "custom/tef/plushies/plushie_warrior"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/eye_patch"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/pirate_hat"},
 		{"predicate": {"custom_model_data":500}, "model": "custom/wolf/bowtie"}
 	]
 }
