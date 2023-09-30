@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/vanilla_flux/halloween/pumpkin_cookie",
-		"particle": "item/custom/vanilla_flux/halloween/pumpkin_cookie"
+		"0": "item/custom/october/pumpkin_cookie",
+		"particle": "item/custom/october/pumpkin_cookie"
 	},
 	"elements": [
 		{
@@ -511,13 +511,13 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [68, 180, 0],
-			"translation": [-0.75, 4.5, 7.25],
+			"rotation": [61, 180, -70],
+			"translation": [-5, 4.25, 4.75],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [68, 180, 0],
-			"translation": [-0.75, 4.5, 7.25],
+			"rotation": [61, 180, -70],
+			"translation": [-5, 4.25, 4.75],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
