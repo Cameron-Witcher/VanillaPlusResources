@@ -14,6 +14,10 @@
 		{"predicate": {"custom_model_data":7}, "model": "custom/cookies/oreo"},
 		{"predicate": {"custom_model_data":50}, "model": "custom/october/witch_hat_cookie"},
 		{"predicate": {"custom_model_data":51}, "model": "custom/october/black_cat_cookie"},
-		{"predicate": {"custom_model_data":52}, "model": "custom/october/pumpkin_cookie"}
+		{"predicate": {"custom_model_data":100}, "model": "custom/tef/food/chocolate_bar_1"},
+		{"predicate": {"custom_model_data":101}, "model": "custom/tef/food/chocolate_bar_2"},
+		{"predicate": {"custom_model_data":102}, "model": "custom/tef/food/candy_corn"},
+		{"predicate": {"custom_model_data":103}, "model": "custom/tef/food/lollipop"},
+		{"predicate": {"custom_model_data":104}, "model": "custom/tef/food/cupcake"}
 	]
 }
