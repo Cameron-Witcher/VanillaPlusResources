@@ -1300,7 +1300,6 @@
     
     },
 	"overrides": [
-	    {"predicate": {"custom_model_data":1}, "model": "custom/cookies/macaron"},
-		{"predicate": {"custom_model_data":2}, "model": "custom/cookies/macaron"}
+	    {"predicate": {"custom_model_data":300}, "model": "custom/quick/pickle"}
 	]
 }
