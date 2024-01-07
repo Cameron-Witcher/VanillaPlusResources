@@ -14,6 +14,9 @@
 		{"predicate": {"custom_model_data":105}, "model": "custom/tef/plushies/plushie_warrior"},
 		{"predicate": {"custom_model_data":106}, "model": "custom/tef/plushies/plushie_pirate"},
 		{"predicate": {"custom_model_data":107}, "model": "custom/tef/plushies/plushie_franken"},
+		{"predicate": {"custom_model_data":108}, "model": "custom/tef/plushies/plushie_robe"},
+		{"predicate": {"custom_model_data":109}, "model": "custom/tef/plushies/plushie_lexi"},
+		{"predicate": {"custom_model_data":110}, "model": "custom/tef/plushies/plushie_default_4"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/eye_patch"},
 		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/pirate_hat"},
 		{"predicate": {"custom_model_data":500}, "model": "custom/wolf/bowtie"}
