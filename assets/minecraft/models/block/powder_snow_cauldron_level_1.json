@@ -2,7 +2,8 @@
 	"credit": "Created by Stridey",
 	"ambientocclusion": false,
 	"textures": {
-		"outside": "block/cauldron_side_level_0",
+		"6": "block/powder_snow",
+		"outside": "block/powder_snow_cauldron_side_level_1",
 		"top": "block/cauldron_top",
 		"bottom": "block/cauldron_bottom",
 		"particle": "block/cauldron_side",
@@ -24,9 +25,9 @@
 		},
 		{
 			"from": [2, 3, 2],
-			"to": [14, 4, 14],
+			"to": [14, 9, 14],
 			"faces": {
-				"up": {"uv": [2, 2, 14, 14], "texture": "#inside", "cullface": "up"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#6", "cullface": "up"},
 				"down": {"uv": [2, 2, 14, 14], "texture": "#inside"}
 			}
 		},
