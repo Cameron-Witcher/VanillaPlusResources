@@ -5,6 +5,6 @@
   },
 
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "custom/flats/redstone_lamp_on_flat"}
+    {"predicate": {"custom_model_data":1}, "model": "custom/flats/map/redstone_lamp_on_flat"}
   ]
 }
