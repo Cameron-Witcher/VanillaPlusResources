@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/quick/armor/pirate_hat_1",
-		"1": "item/custom/quick/armor/pirate_hat_2",
-		"2": "item/custom/quick/armor/feather",
-		"particle": "item/custom/quick/armor/pirate_hat_1"
+		"0": "item/custom/quick/armor/hats/blue/pirate_hat_1",
+		"1": "item/custom/quick/armor/hats/blue/pirate_hat_2",
+		"2": "item/custom/quick/armor/hats/blue/feather",
+		"particle": "item/custom/quick/armor/hats/blue/pirate_hat_1"
 	},
 	"elements": [
 		{

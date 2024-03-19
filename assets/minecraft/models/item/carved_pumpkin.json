@@ -17,8 +17,21 @@
 		{"predicate": {"custom_model_data":108}, "model": "custom/tef/plushies/plushie_robe"},
 		{"predicate": {"custom_model_data":109}, "model": "custom/tef/plushies/plushie_lexi"},
 		{"predicate": {"custom_model_data":110}, "model": "custom/tef/plushies/plushie_default_4"},
+		{"predicate": {"custom_model_data":111}, "model": "custom/tef/plushies/plushie_beach"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/eye_patch"},
-		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/pirate_hat"},
+		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/hats/pirate_hat"},
+		{"predicate": {"custom_model_data":302}, "model": "custom/quick/armor/hats/pirate_hat_red"},
+		{"predicate": {"custom_model_data":303}, "model": "custom/quick/armor/hats/pirate_hat_orange"},
+		{"predicate": {"custom_model_data":304}, "model": "custom/quick/armor/hats/pirate_hat_yellow"},
+		{"predicate": {"custom_model_data":305}, "model": "custom/quick/armor/hats/pirate_hat_green"},
+		{"predicate": {"custom_model_data":306}, "model": "custom/quick/armor/hats/pirate_hat_lime"},
+		{"predicate": {"custom_model_data":307}, "model": "custom/quick/armor/hats/pirate_hat_cyan"},
+		{"predicate": {"custom_model_data":308}, "model": "custom/quick/armor/hats/pirate_hat_blue"},
+		{"predicate": {"custom_model_data":309}, "model": "custom/quick/armor/hats/pirate_hat_dark_blue"},
+		{"predicate": {"custom_model_data":310}, "model": "custom/quick/armor/hats/pirate_hat_purple"},
+		{"predicate": {"custom_model_data":311}, "model": "custom/quick/armor/hats/pirate_hat_magenta"},
+		{"predicate": {"custom_model_data":312}, "model": "custom/quick/armor/hats/pirate_hat_pink"},
+		{"predicate": {"custom_model_data":313}, "model": "custom/quick/armor/hats/pirate_hat_brown"},
 		{"predicate": {"custom_model_data":500}, "model": "custom/wolf/bowtie"}
 	]
 }
