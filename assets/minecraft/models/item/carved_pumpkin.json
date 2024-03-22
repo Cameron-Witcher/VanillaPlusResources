@@ -32,6 +32,22 @@
 		{"predicate": {"custom_model_data":311}, "model": "custom/quick/armor/hats/pirate_hat_magenta"},
 		{"predicate": {"custom_model_data":312}, "model": "custom/quick/armor/hats/pirate_hat_pink"},
 		{"predicate": {"custom_model_data":313}, "model": "custom/quick/armor/hats/pirate_hat_brown"},
+		{"predicate": {"custom_model_data":314}, "model": "custom/quick/armor/hats/lg-bee-t/ag"},
+		{"predicate": {"custom_model_data":315}, "model": "custom/quick/armor/hats/lg-bee-t/an"},
+		{"predicate": {"custom_model_data":316}, "model": "custom/quick/armor/hats/lg-bee-t/ar"},
+		{"predicate": {"custom_model_data":317}, "model": "custom/quick/armor/hats/lg-bee-t/as"},
+		{"predicate": {"custom_model_data":318}, "model": "custom/quick/armor/hats/lg-bee-t/b"},
+		{"predicate": {"custom_model_data":319}, "model": "custom/quick/armor/hats/lg-bee-t/gf"},
+		{"predicate": {"custom_model_data":320}, "model": "custom/quick/armor/hats/lg-bee-t/gq"},
+		{"predicate": {"custom_model_data":321}, "model": "custom/quick/armor/hats/lg-bee-t/i"},
+		{"predicate": {"custom_model_data":322}, "model": "custom/quick/armor/hats/lg-bee-t/l"},
+		{"predicate": {"custom_model_data":323}, "model": "custom/quick/armor/hats/lg-bee-t/nb"},
+		{"predicate": {"custom_model_data":324}, "model": "custom/quick/armor/hats/lg-bee-t/neu"},
+		{"predicate": {"custom_model_data":325}, "model": "custom/quick/armor/hats/lg-bee-t/p"},
+		{"predicate": {"custom_model_data":326}, "model": "custom/quick/armor/hats/lg-bee-t/pam"},
+		{"predicate": {"custom_model_data":327}, "model": "custom/quick/armor/hats/lg-bee-t/pride"},
+		{"predicate": {"custom_model_data":328}, "model": "custom/quick/armor/hats/lg-bee-t/ps"},
+		{"predicate": {"custom_model_data":329}, "model": "custom/quick/armor/hats/lg-bee-t/t"},
 		{"predicate": {"custom_model_data":500}, "model": "custom/wolf/bowtie"}
 	]
 }
