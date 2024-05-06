@@ -1,7 +1,10 @@
 { 
   "pack": {
     "pack_format": 15,
-    "description": "\u00a73\u00a7lVanilla\u00a7a\u00a7lFlux \u00a7f\u00a7lSMP\u00a7e Resource Pack"
-
+	"name": "VanillaFluxResources",
+    "description": "\u00a73\u00a7lVanilla\u00a7a\u00a7lFlux \u00a7f\u00a7lSMP\u00a7e Resource Pack",
+	"supported_formats": {
+		"min_inclusive": 1,
+		"max_inclusive": 99
   }
 }
