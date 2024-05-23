@@ -19,6 +19,7 @@
 		{"predicate": {"custom_model_data":110}, "model": "custom/tef/plushies/plushie_default_4"},
 		{"predicate": {"custom_model_data":111}, "model": "custom/tef/plushies/plushie_beach"},
 		{"predicate": {"custom_model_data":112}, "model": "custom/tef/plushies/plushie_bunny"},
+		{"predicate": {"custom_model_data":113}, "model": "custom/tef/plushies/plushie_partial"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/eye_patch"},
 		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/hats/pirate_hat"},
 		{"predicate": {"custom_model_data":302}, "model": "custom/quick/armor/hats/pirate_hat_red"},
