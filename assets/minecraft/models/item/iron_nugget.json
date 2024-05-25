@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "custom/bingo_cards_pearl/bingocard1"},
+    {"predicate": {"custom_model_data":2}, "model": "custom/bingo_cards_pearl/bingocard2"},
+    {"predicate": {"custom_model_data":3}, "model": "custom/bingo_cards_pearl/bingocard3"},
+    {"predicate": {"custom_model_data":4}, "model": "custom/bingo_cards_pearl/bingocard4"},
+    {"predicate": {"custom_model_data":5}, "model": "custom/bingo_cards_pearl/bingocard5"},
+    {"predicate": {"custom_model_data":6}, "model": "custom/bingo_cards_pearl/bingocard6"},
+    {"predicate": {"custom_model_data":7}, "model": "custom/bingo_cards_pearl/bingocard7"}
+  ]
+}
