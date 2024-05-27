@@ -3,7 +3,7 @@
 	"parent": "bingocard",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/custom/bingrow_cards/bingocard14"
+		"2": "item/custom/bingrow_cards/bingrowcard14"
 	},
 	"elements": [
 		{
