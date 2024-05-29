@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "item/custom/flats/redstone_lamp_flat_on_texture",
+		"2": "item/custom/flats/redstone_lamp_on_flat_texture",
 		"particle": "item/custom/flats/redstone_lamp_on_flat_texture"
 	},
 	"elements": [
