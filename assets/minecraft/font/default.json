@@ -20,6 +20,12 @@
 		"ascent":8,
 		"height":16,
 		"chars":["\ueff5"]
+	},{
+		"type":"bitmap",
+		"file":"minecraft:misc\/calcite_small.png",
+		"ascent":8,
+		"height":16,
+		"chars":["\ueff6"]
 	}
 	]
 }
