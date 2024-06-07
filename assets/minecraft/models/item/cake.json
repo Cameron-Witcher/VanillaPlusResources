@@ -5,7 +5,7 @@
   },
   "overrides": [
 		
-		{"predicate": {"custom_model_data":1001}, "model": "custom/cake"},
+		{"predicate": {"custom_model_data":1001}, "model": "custom/cakes/tef_cake"},
         {"predicate": {"custom_model_data":1002}, "model": "custom/cakes/bree_cake"}
 	]
 }
