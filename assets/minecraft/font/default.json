@@ -3,7 +3,7 @@
 	{
 		"type": "bitmap",
 		"file": "minecraft:gui/sprites/hud/food_empty.png",
-		"asent": 8,
+		"ascent": 8,
 		"height": 9,
 		"chars": [
 			""
