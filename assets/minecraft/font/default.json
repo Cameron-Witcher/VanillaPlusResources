@@ -39,7 +39,7 @@
     {
       "type": "bitmap",
       "file": "minecraft:misc/calcite_small.png",
-      "ascent": 8,
+      "ascent": 16,
       "height": 16,
       "chars": [
         ""
@@ -48,7 +48,7 @@
 	{
       "type": "bitmap",
       "file": "minecraft:block/calcite.png",
-      "ascent": 8,
+      "ascent": 16,
       "height": 16,
       "chars": [
         ""
