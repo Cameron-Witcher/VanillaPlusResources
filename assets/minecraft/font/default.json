@@ -49,7 +49,6 @@
       "type": "bitmap",
       "file": "minecraft:block/calcite.png",
       "ascent": 16,
-      "height": 16,
       "chars": [
         ""
       ]
