@@ -8,7 +8,7 @@
 		"chars": [
 			""
 		],
-		"shift": [-9,0]
+		"shift": [-9,10]
 	},
     {
       "type": "bitmap",
