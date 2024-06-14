@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:misc/hunger_full.png",
+      "file": "minecraft:gui/sprites/hud/food_full.png",
       "ascent": 8,
       "height": 16,
       "chars": [
