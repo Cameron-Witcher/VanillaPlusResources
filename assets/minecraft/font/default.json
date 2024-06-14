@@ -1,10 +1,22 @@
 {
   "providers": [
+	{
+		"type": "bitmap",
+		"file": "minecraft:gui/sprites/hud/food_empty.png",
+		"asent": 8,
+		"height": 9,
+		"chars": [
+			""
+		],
+		"shift": [
+			"left": 9
+		]
+	},
     {
       "type": "bitmap",
-      "file": "minecraft:misc/hunger_half.png",
+      "file": "minecraft:gui/sprites/hud/food_half.png",
       "ascent": 8,
-      "height": 16,
+      "height": 9,
       "chars": [
         ""
       ]
