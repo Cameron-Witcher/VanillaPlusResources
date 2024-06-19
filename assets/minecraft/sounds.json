@@ -1,1 +1,1 @@
-{"player.quickscythe.noteblock":{"sounds":[{"name":"players\/quick\/hotatatah","volume":0.5}],"replace":true},"player.bree.noteblock":{"sounds":[{"name":"player\/bree\/stitious","volume":0.5}]}}
+{"player.quickscythe.noteblock":{"sounds":[{"name":"players\/quick\/hotatatah","volume":0.5}],"replace":true},"player.bree.noteblock":{"sounds":[{"name":"player\/bree\/stitious","volume":0.5}],"replace":"true"}}
