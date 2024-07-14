@@ -426,7 +426,8 @@
 			"translation": [9.5, -0.5, -1.25]
 		},
 		"fixed": {
-			"translation": [0, 0, -0.5]
+			"rotation": [-72, 0, 0],
+			"translation": [0, 0, -6.5]
 		}
 	}
 }
