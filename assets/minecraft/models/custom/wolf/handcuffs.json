@@ -1,8 +1,8 @@
 {
 	"credit": "Made by: WolfButtercup",
 	"textures": {
-		"0": "vanillaflux:wolf/handcuffs",
-		"particle": "vanillaflux:wolf/handcuffs"
+		"0": "item/custom/wolf/handcuffs",
+		"particle": "item/custom/wolf/handcuffs"
 	},
 	"elements": [
 		{

@@ -1,8 +1,8 @@
 {
-	"credit": "by thereizi",
+	"credit": "Made by: Wolfbuttercup",
 	"textures": {
-		"0": "vanillaflux:wolf/rose_g",
-		"particle": "vanillaflux:wolf/rose_g"
+		"0": "item/custom/wolf/rose_g",
+		"particle": "item/custom/wolf/rose_g"
 	},
 	"elements": [
 		{
