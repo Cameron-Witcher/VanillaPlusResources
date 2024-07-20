@@ -21,6 +21,7 @@
 		{"predicate": {"custom_model_data":112}, "model": "custom/tef/plushies/plushie_bunny"},
 		{"predicate": {"custom_model_data":113}, "model": "custom/tef/plushies/plushie_partial"},
 		{"predicate": {"custom_model_data":114}, "model": "custom/tef/plushies/plushie_bday_wolf"},
+		{"predicate": {"custom_model_data":115}, "model": "vanillaflux:tef/plushies/plushie_moss"},
 		{"predicate": {"custom_model_data":300}, "model": "custom/quick/armor/eye_patch"},
 		{"predicate": {"custom_model_data":301}, "model": "custom/quick/armor/hats/pirate_hat"},
 		{"predicate": {"custom_model_data":302}, "model": "custom/quick/armor/hats/pirate_hat_red"},
