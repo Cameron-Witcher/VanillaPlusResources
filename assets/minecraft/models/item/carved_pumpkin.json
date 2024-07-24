@@ -52,6 +52,7 @@
 		{"predicate": {"custom_model_data":327}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/pride"},
 		{"predicate": {"custom_model_data":328}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/ps"},
 		{"predicate": {"custom_model_data":329}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/t"},
+		{"predicate": {"custom_model_data":330}, "model": "vanillaflux:quick/armor/hats/lg-bee-t/bg"},
 		{"predicate": {"custom_model_data":500}, "model": "custom/wolf/bowtie"},
 		{"predicate": {"custom_model_data":1000}, "model": "custom/trophy/trophy_base"},
 		{"predicate": {"custom_model_data":1001}, "model": "custom/trophy/trophy_fish"}
