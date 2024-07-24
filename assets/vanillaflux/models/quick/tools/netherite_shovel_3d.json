@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/custom/quick/tools/netherite_shovel",
-		"1": "item/custom/quick/tools/ruby",
-		"particle": "item/custom/quick/tools/netherite_shovel"
+		"0": "vanillaflux:item/quick/tools/netherite_shovel",
+		"1": "vanillaflux:item/quick/tools/ruby",
+		"particle": "vanillaflux:item/quick/tools/netherite_shovel"
 	},
 	"elements": [
 		{

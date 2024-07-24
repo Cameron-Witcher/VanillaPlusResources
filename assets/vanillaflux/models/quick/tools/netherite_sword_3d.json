@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/custom/quick/tools/ruby",
-		"2": "item/custom/quick/tools/netherite_sword",
-		"particle": "item/custom/quick/tools/ruby"
+		"1": "vanillaflux:item/quick/tools/ruby",
+		"2": "vanillaflux:item/quick/tools/netherite_sword",
+		"particle": "vanillaflux:item/quick/tools/ruby"
 	},
 	"elements": [
 		{
