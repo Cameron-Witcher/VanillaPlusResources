@@ -2,11 +2,5 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/bundle"
-    },
-    "overrides": [
-		{ "predicate": { "custom_model_data": 300 }, "model": "custom/bundle" },
-		
-        { "predicate": { "filled": 0.0000001 }, "model": "item/bundle_filled" },
-		{ "predicate": { "filled": 1 }, "model": "custom/bundle" }
-    ]
+    }
 }
