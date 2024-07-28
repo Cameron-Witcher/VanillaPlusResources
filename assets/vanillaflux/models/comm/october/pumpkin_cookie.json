@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/october/pumpkin_cookie",
-		"particle": "item/custom/october/pumpkin_cookie"
+		"0": "vanillaflux:item/comm/october/pumpkin_cookie",
+		"particle": "vanillaflux:item/comm/october/pumpkin_cookie"
 	},
 	"elements": [
 		{

@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/october/candy_apple"
+		"layer0": "vanillaflux:item/comm/october/candy_apple"
 	}
 }

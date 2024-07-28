@@ -3,7 +3,7 @@
 	"parent": "bingocard",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "item/custom/bingo_cards_pearl/bingocard6"
+		"2": "vanillaflux:item/comm/bingo_cards_pearl/bingocard6"
 	},
 	"elements": [
 		{

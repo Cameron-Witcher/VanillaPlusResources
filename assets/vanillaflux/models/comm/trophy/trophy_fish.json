@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "trophy_base",
 	"textures": {
-		"0": "item/comm/trophy/trophy_base",
-		"1": "item/tropical_fish",
-		"particle": "item/comm/trophy/trophy_base"
+		"0": "vanillaflux:item/comm/trophy/trophy_base",
+		"1": "minecraft:item/tropical_fish",
+		"particle": "vanillaflux:item/comm/trophy/trophy_base"
 	},
 	"elements": [
 		{

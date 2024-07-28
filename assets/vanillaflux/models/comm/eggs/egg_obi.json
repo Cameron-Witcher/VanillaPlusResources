@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "minecraft:item/custom/eggs/egg_obi"
+      "layer0": "vanillaflux:item/comm/eggs/egg_obi"
     }
   }

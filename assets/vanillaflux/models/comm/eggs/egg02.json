@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-      "layer0": "minecraft:item/custom/eggs/egg02"
+      "layer0": "vanillaflux:item/comm/eggs/egg02"
     }
   }
