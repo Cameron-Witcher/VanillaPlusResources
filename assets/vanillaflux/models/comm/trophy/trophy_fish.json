@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "trophy_base",
 	"textures": {
-		"0": "item/custom/trophy/trophy_base",
+		"0": "item/comm/trophy/trophy_base",
 		"1": "item/tropical_fish",
-		"particle": "item/custom/trophy/trophy_base"
+		"particle": "item/comm/trophy/trophy_base"
 	},
 	"elements": [
 		{
