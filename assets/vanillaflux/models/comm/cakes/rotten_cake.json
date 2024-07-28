@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "item/custom/cakes/wolf/rotten_cake"
+		"4": "vanillaflux:item/comm/cakes/wolf/rotten_cake"
 	},
 	"elements": [
 		{

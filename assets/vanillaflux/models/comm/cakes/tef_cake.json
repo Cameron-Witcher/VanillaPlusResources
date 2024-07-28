@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "item/custom/cakes/tef/cake"
+		"4": "vanillaflux:item/comm/cakes/tef/cake"
 	},
 	"elements": [
 		{

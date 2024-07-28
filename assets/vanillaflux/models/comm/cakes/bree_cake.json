@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "item/custom/cakes/bree/bree_cake_candle",
-		"bottom": "item/custom/cakes/bree/cake_bottom",
-		"top": "item/custom/cakes/bree/cake_top",
-		"particle": "item/custom/cakes/bree/cake_side",
-		"side": "item/custom/cakes/bree/cake_side"
+		"3": "vanillaflux:item/comm/cakes/bree/bree_cake_candle",
+		"bottom": "vanillaflux:item/comm/cakes/bree/cake_bottom",
+		"top": "vanillaflux:item/comm/cakes/bree/cake_top",
+		"particle": "vanillaflux:item/comm//cakes/bree/cake_side",
+		"side": "vanillaflux:item/comm/cakes/bree/cake_side"
 	},
 	"elements": [
 		{
