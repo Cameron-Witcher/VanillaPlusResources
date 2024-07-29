@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/custom/cookies/cinnamon_roll"
+    "layer0": "vanillaflux:item/public/cookies/cinnamon_roll"
   }
 }

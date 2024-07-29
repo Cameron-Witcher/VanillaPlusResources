@@ -1,5 +1,5 @@
 {
-	"parent": "custom/flats/stick/flat",
+	"parent": "vanillaflux:public/flats/stick/flat",
 	"textures": {
 		"up": "minecraft:block/carved_pumpkin",
 		"down": "minecraft:block/pumpkin_side",

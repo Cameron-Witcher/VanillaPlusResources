@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "vanillaflux:item/public/books/book12"
+		"layer0": "item/custom/elytra/cherry_elytra_item"
 	}
 }

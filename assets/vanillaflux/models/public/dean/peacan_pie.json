@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/custom/peacan_pie",
+		"0": "vanillaflux:item/public/dean/peacan_pie",
 		"particle": "item/custom/peacan_pie"
 	},
 	"elements": [

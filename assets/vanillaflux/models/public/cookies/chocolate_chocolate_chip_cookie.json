@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "item/custom/cookies/chocolate_chocolate_chip_cookie"
+    "layer0": "vanillaflux:item/public/cookies/chocolate_chocolate_chip_cookie"
   }
 }

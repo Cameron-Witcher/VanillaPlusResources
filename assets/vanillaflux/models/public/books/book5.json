@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "item/custom/books/book5"
+		"layer0": "vanillaflux:item/public/books/book5"
 	}
 }

@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/tef/plushies/plushboi",
-		"1": "item/tef/plushies/green_crown",
-		"2": "item/tef/plushies/mini_cake",
-		"particle": "item/tef/plushies/green_crown"
+		"0": "vanillaflux:item/tef/plushies/plushboi",
+		"1": "vanillaflux:item/tef/plushies/green_crown",
+		"2": "vanillaflux:item/tef/plushies/mini_cake",
+		"particle": "vanillaflux:item/tef/plushies/green_crown"
 	},
 	"elements": [
 		{
