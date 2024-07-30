@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "vanillaflux:item/rockets/rocket9"
+		"layer0": "vanillaflux:item/public/rockets/rocket9"
 	}
 }
