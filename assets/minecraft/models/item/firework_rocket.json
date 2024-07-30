@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
 	"gui_light": "front",
 	"textures": {
-		"layer0": "item/firework_rocket",
-		"particle": "item/firework_rocket"
+		"layer0": "minecraft:item/firework_rocket",
+		"particle": "minecraft:item/firework_rocket"
 	},
 	
 	"overrides": [
